@@ -1,0 +1,48 @@
+2026-03-24 13:03:39.677 [INFO] - index - medusajs-medusa-c3dc14 - Scanning files
+2026-03-24 13:03:39.679 [DEBUG] - index - medusajs-medusa-c3dc14 - Cache miss for scanning files
+2026-03-24 13:04:31.886 [CHECKMARK] - index - medusajs-medusa-c3dc14 - Files scanned
+2026-03-24 13:04:31.887 [INFO] - index - medusajs-medusa-c3dc14 - Found 108 module(s)
+2026-03-24 13:04:31.887 [INFO] - index - Expected exactly 1 module, found 108 — skipping analysis
+2026-03-24 13:04:31.887 [INFO] - index - medusajs-medusa-c3dc14 - Detected applications: @medusajs/medusa, api-reference, bloom, book, cloud, resources, ui, user-guide
+2026-03-24 13:04:31.973 [CHECKMARK] - index - medusajs-medusa-c3dc14 - Files scanned
+2026-03-24 13:04:31.973 [INFO] - index - medusajs-medusa-c3dc14 - Found 108 module(s)
+2026-03-24 13:04:31.973 [INFO] - index - medusajs-medusa-c3dc14 - Detected applications: @medusajs/medusa, api-reference, bloom, book, cloud, resources, ui, user-guide
+2026-03-24 13:04:32.061 [CHECKMARK] - index - medusajs-medusa-c3dc14 - Files scanned
+2026-03-24 13:04:32.062 [INFO] - index - medusajs-medusa-c3dc14 - Found 108 module(s)
+2026-03-24 13:04:32.062 [INFO] - index - medusajs-medusa-c3dc14 - Detected applications: @medusajs/medusa, api-reference, bloom, book, cloud, resources, ui, user-guide
+2026-03-24 13:04:32.090 [INFO] - index - packages-medusa-ts - Indexing your project
+2026-03-24 13:04:32.090 [DEBUG] - index - packages-medusa-ts - Cache miss for indexing your project
+2026-03-24 13:05:01.624 [CHECKMARK] - index - packages-medusa-ts - Project indexed
+2026-03-24 13:05:01.626 [INFO] - index - packages-medusa-ts - Analyzing imports
+2026-03-24 13:05:01.626 [DEBUG] - index - packages-medusa-ts - Cache miss for analyzing imports
+2026-03-24 13:05:29.270 [CHECKMARK] - index - packages-medusa-ts - Imports analyzed
+2026-03-24 13:05:29.352 [INFO] - index - packages-medusa-ts - Analyzing build configuration
+2026-03-24 13:05:29.352 [DEBUG] - index - packages-medusa-ts - Cache miss for analyzing build configuration
+2026-03-24 13:05:47.816 [CHECKMARK] - index - packages-medusa-ts - Build configuration analyzed
+2026-03-24 13:05:47.819 [INFO] - composeAgent - packages-medusa-ts - Generating Dockerfile
+2026-03-24 13:05:47.820 [DEBUG] - composeAgent - packages-medusa-ts - Cache miss for generating dockerfile
+2026-03-24 13:08:29.575 [INFO] - index - packages-medusa-ts - Analyzing external services
+2026-03-24 13:08:29.575 [DEBUG] - index - packages-medusa-ts - Cache miss for analyzing external services
+2026-03-24 13:08:29.576 [INFO] - index - packages-medusa-ts - Analyzing security
+2026-03-24 13:08:29.576 [DEBUG] - index - packages-medusa-ts - Cache miss for analyzing security
+2026-03-24 13:09:01.551 [CHECKMARK] - index - packages-medusa-ts - External services analyzed
+2026-03-24 13:09:06.548 [CHECKMARK] - index - packages-medusa-ts - Security analyzed
+2026-03-24 13:16:42.257 [CHECKMARK] - composeAgent - packages-medusa-ts - Dockerfile generated
+2026-03-24 13:16:42.259 [INFO] - composeAgent - packages-medusa-ts - Gathering context
+2026-03-24 13:16:42.259 [DEBUG] - composeAgent - packages-medusa-ts - Cache miss for gathering context
+2026-03-24 13:17:40.689 [CHECKMARK] - composeAgent - packages-medusa-ts - Context gathered
+2026-03-24 13:17:40.691 [INFO] - composeAgent - packages-medusa-ts - Generating docker-compose.yaml
+2026-03-24 13:17:40.691 [DEBUG] - composeAgent - packages-medusa-ts - Cache miss for generating docker-compose.yaml
+2026-03-24 13:17:40.703 [CHECKMARK] - composeAgent - packages-medusa-ts - docker-compose.yaml generated
+2026-03-24 13:17:40.871 [CHECKMARK] - index - packages-medusa-ts - Project indexed
+2026-03-24 13:17:40.883 [CHECKMARK] - index - packages-medusa-ts - Imports analyzed
+2026-03-24 13:17:40.898 [CHECKMARK] - index - packages-medusa-ts - Build configuration analyzed
+2026-03-24 13:17:40.906 [CHECKMARK] - composeAgent - packages-medusa-ts - Dockerfile generated
+2026-03-24 13:17:41.046 [CHECKMARK] - index - packages-medusa-ts - Project indexed
+2026-03-24 13:17:41.055 [CHECKMARK] - index - packages-medusa-ts - Imports analyzed
+2026-03-24 13:17:41.082 [CHECKMARK] - index - packages-medusa-ts - Build configuration analyzed
+2026-03-24 13:17:41.085 [CHECKMARK] - index - packages-medusa-ts - External services analyzed
+2026-03-24 13:17:41.086 [CHECKMARK] - index - packages-medusa-ts - Security analyzed
+2026-03-24 13:17:41.091 [CHECKMARK] - composeAgent - packages-medusa-ts - Dockerfile generated
+2026-03-24 13:17:41.101 [CHECKMARK] - composeAgent - packages-medusa-ts - Context gathered
+2026-03-24 13:17:41.111 [CHECKMARK] - composeAgent - packages-medusa-ts - docker-compose.yaml generated
